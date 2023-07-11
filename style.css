@@ -1,0 +1,11 @@
+.chikko,.gana{
+    background-color: lightgray;
+    border: 3px 3px 3px 3px black;
+}
+.a,.b,.c,.d{
+    padding-inline: 50px;
+    border-radius: 100px 50px 100px 50px;
+    background-color:aqua;
+    border:3px solid black;
+    box-shadow: 2px 2px 2px 2px orange;
+}
